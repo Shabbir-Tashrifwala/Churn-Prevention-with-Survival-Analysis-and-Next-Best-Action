@@ -1,0 +1,434 @@
+row_id,S_at_h,ChurnRisk_at_h,RiskSegment,ValueMetric,ValueSegment,NextBestAction,HoldoutControl
+579,3.9102939692546885e-06,0.9999960897060307,High,1.0,High,High-Touch Intervention (Sr. AM outreach + significant offer),False
+1203,6.321309212200813e-06,0.9999936786907878,High,1.0,High,High-Touch Intervention (Sr. AM outreach + significant offer),False
+1028,7.745083034699586e-06,0.9999922549169653,High,1.0,High,High-Touch Intervention (Sr. AM outreach + significant offer),False
+1387,8.09904304455525e-06,0.9999919009569554,High,1.0,High,High-Touch Intervention (Sr. AM outreach + significant offer),False
+1651,8.57925479140279e-06,0.9999914207452086,High,1.0,High,High-Touch Intervention (Sr. AM outreach + significant offer),False
+453,9.605486414304872e-06,0.9999903945135857,High,1.0,High,High-Touch Intervention (Sr. AM outreach + significant offer),False
+641,1.0739466099067847e-05,0.9999892605339009,High,1.0,High,High-Touch Intervention (Sr. AM outreach + significant offer),False
+172,1.1177808508572143e-05,0.9999888221914914,High,1.0,High,High-Touch Intervention (Sr. AM outreach + significant offer),False
+758,1.1831313829695017e-05,0.9999881686861704,High,1.0,High,High-Touch Intervention (Sr. AM outreach + significant offer),False
+1550,1.2439633254663358e-05,0.9999875603667453,High,1.0,High,High-Touch Intervention (Sr. AM outreach + significant offer),False
+753,1.2985904719863367e-05,0.9999870140952801,High,1.0,High,High-Touch Intervention (Sr. AM outreach + significant offer),False
+158,1.364110881639548e-05,0.9999863588911836,High,1.0,High,High-Touch Intervention (Sr. AM outreach + significant offer),False
+623,1.364110881639548e-05,0.9999863588911836,High,1.0,High,High-Touch Intervention (Sr. AM outreach + significant offer),False
+673,1.529257104112012e-05,0.9999847074289588,High,1.0,High,High-Touch Intervention (Sr. AM outreach + significant offer),False
+1786,1.6220591652221804e-05,0.9999837794083478,High,1.0,High,High-Touch Intervention (Sr. AM outreach + significant offer),False
+886,1.7135375049121826e-05,0.9999828646249509,High,1.0,High,High-Touch Intervention (Sr. AM outreach + significant offer),False
+1765,1.9422516972465692e-05,0.9999805774830275,High,1.0,High,High-Touch Intervention (Sr. AM outreach + significant offer),False
+4030,2.0249183564640934e-05,0.9999797508164353,High,1.0,High,High-Touch Intervention (Sr. AM outreach + significant offer),False
+456,2.0249183564640934e-05,0.9999797508164353,High,1.0,High,High-Touch Intervention (Sr. AM outreach + significant offer),False
+200,2.126605914213818e-05,0.9999787339408579,High,1.0,High,High-Touch Intervention (Sr. AM outreach + significant offer),False
+964,2.126605914213818e-05,0.9999787339408579,High,1.0,High,High-Touch Intervention (Sr. AM outreach + significant offer),False
+598,2.2531682241444387e-05,0.9999774683177586,High,1.0,High,High-Touch Intervention (Sr. AM outreach + significant offer),False
+1760,2.2651098627709675e-05,0.9999773489013722,High,1.0,High,High-Touch Intervention (Sr. AM outreach + significant offer),False
+1213,2.3309686680491785e-05,0.9999766903133195,High,1.0,High,High-Touch Intervention (Sr. AM outreach + significant offer),False
+464,2.435415461273932e-05,0.9999756458453872,High,1.0,High,High-Touch Intervention (Sr. AM outreach + significant offer),False
+1699,2.534043613327336e-05,0.9999746595638668,High,1.0,High,High-Touch Intervention (Sr. AM outreach + significant offer),False
+4329,2.5800765273090022e-05,0.9999741992347269,High,1.0,High,High-Touch Intervention (Sr. AM outreach + significant offer),False
+1497,2.5800765273090022e-05,0.9999741992347269,High,1.0,High,High-Touch Intervention (Sr. AM outreach + significant offer),False
+1416,2.5800765273090022e-05,0.9999741992347269,High,1.0,High,High-Touch Intervention (Sr. AM outreach + significant offer),False
+1737,2.755598675736662e-05,0.9999724440132426,High,1.0,High,High-Touch Intervention (Sr. AM outreach + significant offer),False
+1635,3.2149581320860915e-05,0.9999678504186792,High,1.0,High,High-Touch Intervention (Sr. AM outreach + significant offer),False
+5177,3.344285265303633e-05,0.999966557147347,High,1.0,High,High-Touch Intervention (Sr. AM outreach + significant offer),False
+991,5.1987914353411814e-05,0.9999480120856465,High,1.0,High,High-Touch Intervention (Sr. AM outreach + significant offer),False
+652,8.325166670121906e-05,0.9999167483332988,High,1.0,High,High-Touch Intervention (Sr. AM outreach + significant offer),False
+1510,9.639929656464297e-05,0.9999036007034353,High,1.0,High,High-Touch Intervention (Sr. AM outreach + significant offer),False
+719,0.00010180709635563472,0.9998981929036443,High,1.0,High,High-Touch Intervention (Sr. AM outreach + significant offer),False
+1752,0.00012380968051603464,0.9998761903194839,High,1.0,High,High-Touch Intervention (Sr. AM outreach + significant offer),False
+2380,0.0001248921925835275,0.9998751078074165,High,1.0,High,High-Touch Intervention (Sr. AM outreach + significant offer),False
+590,0.0003279135090148182,0.9996720864909852,High,1.0,High,High-Touch Intervention (Sr. AM outreach + significant offer),False
+470,0.00038526750718907704,0.999614732492811,High,1.0,High,High-Touch Intervention (Sr. AM outreach + significant offer),False
+1647,0.00040341913952316464,0.9995965808604769,High,1.0,High,High-Touch Intervention (Sr. AM outreach + significant offer),False
+1493,0.0004242020351751979,0.9995757979648248,High,1.0,High,High-Touch Intervention (Sr. AM outreach + significant offer),False
+1339,0.00048125532539431966,0.9995187446746057,High,1.0,High,High-Touch Intervention (Sr. AM outreach + significant offer),False
+1602,0.0006251033425799227,0.9993748966574201,High,1.0,High,High-Touch Intervention (Sr. AM outreach + significant offer),False
+297,0.0006312456825427876,0.9993687543174572,High,1.0,High,High-Touch Intervention (Sr. AM outreach + significant offer),False
+144,0.0009398999963300327,0.99906010000367,High,1.0,High,High-Touch Intervention (Sr. AM outreach + significant offer),False
+619,0.000958463618736478,0.9990415363812635,High,1.0,High,High-Touch Intervention (Sr. AM outreach + significant offer),False
+5296,0.000990786143195133,0.9990092138568049,High,1.0,High,High-Touch Intervention (Sr. AM outreach + significant offer),False
+655,0.0010717629213831297,0.9989282370786169,High,1.0,High,High-Touch Intervention (Sr. AM outreach + significant offer),False
+810,0.0012640171675246637,0.9987359828324753,High,1.0,High,High-Touch Intervention (Sr. AM outreach + significant offer),False
+406,0.0013842877661191689,0.9986157122338808,High,1.0,High,High-Touch Intervention (Sr. AM outreach + significant offer),False
+47,0.0014780416912386941,0.9985219583087613,High,1.0,High,High-Touch Intervention (Sr. AM outreach + significant offer),False
+6048,0.0017498886427588516,0.9982501113572412,High,1.0,High,High-Touch Intervention (Sr. AM outreach + significant offer),False
+98,0.0018495886389022533,0.9981504113610977,High,1.0,High,High-Touch Intervention (Sr. AM outreach + significant offer),False
+477,0.0018690139225150705,0.998130986077485,High,1.0,High,High-Touch Intervention (Sr. AM outreach + significant offer),False
+3556,0.0018690139225150705,0.998130986077485,High,1.0,High,High-Touch Intervention (Sr. AM outreach + significant offer),False
+4826,0.001994894699527181,0.9980051053004728,High,1.0,High,High-Touch Intervention (Sr. AM outreach + significant offer),False
+489,0.001994894699527181,0.9980051053004728,High,1.0,High,High-Touch Intervention (Sr. AM outreach + significant offer),False
+2005,0.001994894699527181,0.9980051053004728,High,1.0,High,High-Touch Intervention (Sr. AM outreach + significant offer),False
+5590,0.001994894699527181,0.9980051053004728,High,1.0,High,High-Touch Intervention (Sr. AM outreach + significant offer),False
+875,0.0020672182689984763,0.9979327817310015,High,1.0,High,High-Touch Intervention (Sr. AM outreach + significant offer),False
+1609,0.0022786816817448696,0.9977213183182552,High,1.0,High,High-Touch Intervention (Sr. AM outreach + significant offer),False
+3635,0.0022786816817448696,0.9977213183182552,High,1.0,High,High-Touch Intervention (Sr. AM outreach + significant offer),False
+349,0.002370548612553161,0.9976294513874469,High,1.0,High,High-Touch Intervention (Sr. AM outreach + significant offer),False
+4772,0.0028693284798178968,0.9971306715201821,High,1.0,High,High-Touch Intervention (Sr. AM outreach + significant offer),False
+4605,0.005150713818003422,0.9948492861819965,High,1.0,High,High-Touch Intervention (Sr. AM outreach + significant offer),False
+1164,0.006827265525191334,0.9931727344748087,High,1.0,High,High-Touch Intervention (Sr. AM outreach + significant offer),False
+3956,0.00718224615657051,0.9928177538434295,High,1.0,High,High-Touch Intervention (Sr. AM outreach + significant offer),False
+1409,0.00741303030045842,0.9925869696995416,High,1.0,High,High-Touch Intervention (Sr. AM outreach + significant offer),False
+2287,0.007649058231220069,0.9923509417687799,High,1.0,High,High-Touch Intervention (Sr. AM outreach + significant offer),False
+5607,0.0076927978126579855,0.992307202187342,High,1.0,High,High-Touch Intervention (Sr. AM outreach + significant offer),False
+931,0.007791945418371847,0.9922080545816282,High,1.0,High,High-Touch Intervention (Sr. AM outreach + significant offer),False
+1698,0.007791945418371847,0.9922080545816282,High,1.0,High,High-Touch Intervention (Sr. AM outreach + significant offer),False
+834,0.007953870314151752,0.9920461296858483,High,1.0,High,High-Touch Intervention (Sr. AM outreach + significant offer),False
+452,0.008274590869485423,0.9917254091305145,High,1.0,High,High-Touch Intervention (Sr. AM outreach + significant offer),False
+530,0.008314855994816078,0.9916851440051839,High,1.0,High,High-Touch Intervention (Sr. AM outreach + significant offer),False
+6997,0.009186946961404145,0.9908130530385959,High,1.0,High,High-Touch Intervention (Sr. AM outreach + significant offer),False
+2149,0.010174093630336183,0.9898259063696638,High,1.0,High,High-Touch Intervention (Sr. AM outreach + significant offer),False
+1829,0.010289687939685582,0.9897103120603145,High,1.0,High,High-Touch Intervention (Sr. AM outreach + significant offer),False
+194,0.011807665493045485,0.9881923345069545,High,1.0,High,High-Touch Intervention (Sr. AM outreach + significant offer),False
+2265,0.01290051671198723,0.9870994832880128,High,1.0,High,High-Touch Intervention (Sr. AM outreach + significant offer),False
+3246,0.014085589091372884,0.9859144109086271,High,1.0,High,High-Touch Intervention (Sr. AM outreach + significant offer),False
+1719,0.0141320470757515,0.9858679529242484,High,1.0,High,High-Touch Intervention (Sr. AM outreach + significant offer),False
+7022,0.014369136379845597,0.9856308636201544,High,1.0,High,High-Touch Intervention (Sr. AM outreach + significant offer),False
+6028,0.015002346846658202,0.9849976531533418,High,1.0,High,High-Touch Intervention (Sr. AM outreach + significant offer),False
+284,0.016953418385456175,0.9830465816145438,High,1.0,High,High-Touch Intervention (Sr. AM outreach + significant offer),False
+617,0.02097925144448239,0.9790207485555176,High,1.0,High,High-Touch Intervention (Sr. AM outreach + significant offer),False
+1212,0.021030018670614013,0.978969981329386,High,1.0,High,High-Touch Intervention (Sr. AM outreach + significant offer),False
+89,0.028939936068780165,0.9710600639312198,High,1.0,High,High-Touch Intervention (Sr. AM outreach + significant offer),False
+570,0.031114446678878215,0.9688855533211218,High,1.0,High,High-Touch Intervention (Sr. AM outreach + significant offer),False
+4637,0.03249459023283262,0.9675054097671674,High,1.0,High,High-Touch Intervention (Sr. AM outreach + significant offer),False
+129,0.0352139233370341,0.9647860766629659,High,1.0,High,High-Touch Intervention (Sr. AM outreach + significant offer),False
+1682,0.036991287399085464,0.9630087126009146,High,1.0,High,High-Touch Intervention (Sr. AM outreach + significant offer),False
+881,0.03765452511526081,0.9623454748847392,High,1.0,High,High-Touch Intervention (Sr. AM outreach + significant offer),False
+6343,0.04171623702050973,0.9582837629794903,High,1.0,High,High-Touch Intervention (Sr. AM outreach + significant offer),False
+492,0.042673517423086574,0.9573264825769134,High,1.0,High,High-Touch Intervention (Sr. AM outreach + significant offer),False
+713,0.0439749812646455,0.9560250187353545,High,1.0,High,High-Touch Intervention (Sr. AM outreach + significant offer),False
+4198,0.044165323462716934,0.955834676537283,High,1.0,High,High-Touch Intervention (Sr. AM outreach + significant offer),False
+418,0.04463694468328654,0.9553630553167135,High,1.0,High,High-Touch Intervention (Sr. AM outreach + significant offer),False
+1262,0.044850346922736234,0.9551496530772637,High,1.0,High,High-Touch Intervention (Sr. AM outreach + significant offer),False
+2934,0.04908850163157475,0.9509114983684253,High,1.0,High,High-Touch Intervention (Sr. AM outreach + significant offer),False
+571,0.05184117969286618,0.9481588203071338,High,1.0,High,High-Touch Intervention (Sr. AM outreach + significant offer),False
+462,0.05370684717109637,0.9462931528289036,High,1.0,High,High-Touch Intervention (Sr. AM outreach + significant offer),False
+1198,0.05458482479874067,0.9454151752012593,High,1.0,High,High-Touch Intervention (Sr. AM outreach + significant offer),False
+2198,0.06124410545306002,0.93875589454694,High,1.0,High,High-Touch Intervention (Sr. AM outreach + significant offer),False
+1611,0.07739736146669131,0.9226026385333087,High,1.0,High,High-Touch Intervention (Sr. AM outreach + significant offer),False
+3185,0.07793666475670834,0.9220633352432916,High,1.0,High,High-Touch Intervention (Sr. AM outreach + significant offer),False
+1657,0.07838389596603317,0.9216161040339669,High,1.0,High,High-Touch Intervention (Sr. AM outreach + significant offer),False
+1272,0.08131563279555336,0.9186843672044467,High,1.0,High,High-Touch Intervention (Sr. AM outreach + significant offer),False
+1106,0.08195149034126013,0.9180485096587399,High,1.0,High,High-Touch Intervention (Sr. AM outreach + significant offer),False
+161,0.08250184118156291,0.9174981588184371,High,1.0,High,High-Touch Intervention (Sr. AM outreach + significant offer),False
+3676,0.08285126328458127,0.9171487367154187,High,1.0,High,High-Touch Intervention (Sr. AM outreach + significant offer),False
+124,0.08437919880032965,0.9156208011996704,High,1.0,High,High-Touch Intervention (Sr. AM outreach + significant offer),False
+1776,0.08680430689097847,0.9131956931090215,High,1.0,High,High-Touch Intervention (Sr. AM outreach + significant offer),False
+4620,0.09262941376532767,0.9073705862346724,High,1.0,High,High-Touch Intervention (Sr. AM outreach + significant offer),False
+1674,0.09325278171525066,0.9067472182847494,High,1.0,High,High-Touch Intervention (Sr. AM outreach + significant offer),False
+44,0.09587797273522455,0.9041220272647754,High,1.0,High,High-Touch Intervention (Sr. AM outreach + significant offer),False
+6550,0.09895478046690592,0.901045219533094,High,1.0,High,High-Touch Intervention (Sr. AM outreach + significant offer),False
+5935,0.09944242148636113,0.9005575785136388,High,1.0,High,High-Touch Intervention (Sr. AM outreach + significant offer),False
+1237,0.10425174875207083,0.8957482512479291,High,1.0,High,High-Touch Intervention (Sr. AM outreach + significant offer),False
+3180,0.11189589815283559,0.8881041018471644,High,1.0,High,High-Touch Intervention (Sr. AM outreach + significant offer),False
+1715,0.1150350161569085,0.8849649838430915,High,1.0,High,High-Touch Intervention (Sr. AM outreach + significant offer),False
+1225,0.11831742938466457,0.8816825706153354,High,1.0,High,High-Touch Intervention (Sr. AM outreach + significant offer),False
+6510,0.11988044000781564,0.8801195599921844,High,1.0,High,High-Touch Intervention (Sr. AM outreach + significant offer),False
+33,0.12023937386396236,0.8797606261360377,High,1.0,High,High-Touch Intervention (Sr. AM outreach + significant offer),False
+1730,0.13454717696005206,0.865452823039948,High,1.0,High,High-Touch Intervention (Sr. AM outreach + significant offer),False
+446,0.1414596797654497,0.8585403202345503,High,1.0,High,High-Touch Intervention (Sr. AM outreach + significant offer),False
+1459,0.14380837230478227,0.8561916276952177,High,1.0,High,High-Touch Intervention (Sr. AM outreach + significant offer),False
+795,0.1504407761440873,0.8495592238559126,High,1.0,High,High-Touch Intervention (Sr. AM outreach + significant offer),False
+5653,0.15597726144676327,0.8440227385532367,High,1.0,High,High-Touch Intervention (Sr. AM outreach + significant offer),False
+4730,0.1608406886027328,0.8391593113972672,High,1.0,High,High-Touch Intervention (Sr. AM outreach + significant offer),False
+482,0.1609461672019808,0.8390538327980193,High,1.0,High,High-Touch Intervention (Sr. AM outreach + significant offer),False
+1542,0.16178238722760094,0.838217612772399,High,1.0,High,High-Touch Intervention (Sr. AM outreach + significant offer),False
+879,0.168250491458019,0.831749508541981,High,1.0,High,High-Touch Intervention (Sr. AM outreach + significant offer),False
+1248,0.16962055737984946,0.8303794426201505,High,1.0,High,High-Touch Intervention (Sr. AM outreach + significant offer),False
+4516,0.17874622555269595,0.8212537744473041,High,1.0,High,High-Touch Intervention (Sr. AM outreach + significant offer),False
+1481,0.17927039413049725,0.8207296058695027,High,1.0,High,High-Touch Intervention (Sr. AM outreach + significant offer),False
+193,0.18520706204425627,0.8147929379557437,High,1.0,High,High-Touch Intervention (Sr. AM outreach + significant offer),False
+2994,0.18803058451833612,0.8119694154816639,High,1.0,High,High-Touch Intervention (Sr. AM outreach + significant offer),False
+840,0.19082692475793542,0.8091730752420646,High,1.0,High,High-Touch Intervention (Sr. AM outreach + significant offer),False
+6845,0.1922341967939457,0.8077658032060543,High,1.0,High,High-Touch Intervention (Sr. AM outreach + significant offer),False
+240,0.19651767510238727,0.8034823248976127,High,1.0,High,High-Touch Intervention (Sr. AM outreach + significant offer),False
+1337,0.20233697096914582,0.7976630290308542,High,1.0,High,High-Touch Intervention (Sr. AM outreach + significant offer),False
+988,0.21132724981050474,0.7886727501894952,High,1.0,High,High-Touch Intervention (Sr. AM outreach + significant offer),False
+5652,0.21140397101012895,0.788596028989871,High,1.0,High,High-Touch Intervention (Sr. AM outreach + significant offer),False
+2567,0.21396639343086962,0.7860336065691303,High,1.0,High,High-Touch Intervention (Sr. AM outreach + significant offer),False
+606,0.21479351382474174,0.7852064861752582,High,1.0,High,High-Touch Intervention (Sr. AM outreach + significant offer),False
+2797,0.21777412643992053,0.7822258735600794,High,1.0,High,High-Touch Intervention (Sr. AM outreach + significant offer),False
+2792,0.21799787720883768,0.7820021227911623,High,1.0,High,High-Touch Intervention (Sr. AM outreach + significant offer),False
+4250,0.2188723858918744,0.7811276141081256,High,1.0,High,High-Touch Intervention (Sr. AM outreach + significant offer),False
+4998,0.21889283916572025,0.7811071608342798,High,1.0,High,High-Touch Intervention (Sr. AM outreach + significant offer),False
+961,0.22142343757608096,0.778576562423919,High,1.0,High,High-Touch Intervention (Sr. AM outreach + significant offer),False
+1220,0.22205754682556778,0.7779424531744322,High,1.0,High,High-Touch Intervention (Sr. AM outreach + significant offer),False
+6064,0.22229908612446797,0.777700913875532,High,1.0,High,High-Touch Intervention (Sr. AM outreach + significant offer),False
+1967,0.22229908612446797,0.777700913875532,High,1.0,High,High-Touch Intervention (Sr. AM outreach + significant offer),False
+1270,0.22475885989022826,0.7752411401097717,High,1.0,High,High-Touch Intervention (Sr. AM outreach + significant offer),False
+399,0.2274489351355988,0.7725510648644012,High,1.0,High,High-Touch Intervention (Sr. AM outreach + significant offer),False
+2274,0.22809238923478942,0.7719076107652105,High,1.0,High,High-Touch Intervention (Sr. AM outreach + significant offer),False
+3141,0.23106208755649293,0.7689379124435071,High,1.0,High,High-Touch Intervention (Sr. AM outreach + significant offer),False
+4470,0.2323825256520566,0.7676174743479434,High,1.0,High,High-Touch Intervention (Sr. AM outreach + significant offer),False
+4881,0.2355524080101951,0.7644475919898048,High,1.0,High,High-Touch Intervention (Sr. AM outreach + significant offer),False
+236,0.2388705598797889,0.7611294401202111,High,1.0,High,High-Touch Intervention (Sr. AM outreach + significant offer),False
+3126,0.24016964133693153,0.7598303586630685,High,1.0,High,High-Touch Intervention (Sr. AM outreach + significant offer),False
+1546,0.24041859471134722,0.7595814052886528,High,1.0,High,High-Touch Intervention (Sr. AM outreach + significant offer),False
+4510,0.24439540683908612,0.7556045931609139,High,1.0,High,High-Touch Intervention (Sr. AM outreach + significant offer),False
+844,0.2528836947979306,0.7471163052020694,High,1.0,High,High-Touch Intervention (Sr. AM outreach + significant offer),False
+3435,0.25396996383576637,0.7460300361642336,High,1.0,High,High-Touch Intervention (Sr. AM outreach + significant offer),False
+63,0.25591982896181276,0.7440801710381872,High,1.0,High,High-Touch Intervention (Sr. AM outreach + significant offer),False
+7,0.2575326890519059,0.7424673109480942,High,1.0,High,High-Touch Intervention (Sr. AM outreach + significant offer),False
+1170,0.2594238929542832,0.7405761070457169,High,1.0,High,High-Touch Intervention (Sr. AM outreach + significant offer),False
+6165,0.2623407870468736,0.7376592129531264,High,1.0,High,High-Touch Intervention (Sr. AM outreach + significant offer),False
+280,0.26597415096584304,0.7340258490341569,High,1.0,High,High-Touch Intervention (Sr. AM outreach + significant offer),False
+145,0.26835850773653547,0.7316414922634645,High,1.0,High,High-Touch Intervention (Sr. AM outreach + significant offer),False
+4318,0.2711674369925778,0.7288325630074222,High,1.0,High,High-Touch Intervention (Sr. AM outreach + significant offer),False
+1235,0.2711674369925778,0.7288325630074222,High,1.0,High,High-Touch Intervention (Sr. AM outreach + significant offer),False
+1848,0.27422329540742846,0.7257767045925716,High,1.0,High,High-Touch Intervention (Sr. AM outreach + significant offer),False
+3872,0.28238393745011586,0.7176160625498842,High,1.0,High,High-Touch Intervention (Sr. AM outreach + significant offer),False
+985,0.28268601446793934,0.7173139855320607,High,1.0,High,High-Touch Intervention (Sr. AM outreach + significant offer),False
+1279,0.2848647400841712,0.7151352599158288,High,1.0,High,High-Touch Intervention (Sr. AM outreach + significant offer),False
+717,0.28794579473286236,0.7120542052671377,High,1.0,High,High-Touch Intervention (Sr. AM outreach + significant offer),False
+3932,0.28796097025118983,0.7120390297488102,High,1.0,High,High-Touch Intervention (Sr. AM outreach + significant offer),False
+1689,0.2888384179299364,0.7111615820700636,High,1.0,High,High-Touch Intervention (Sr. AM outreach + significant offer),False
+3701,0.2983584859413229,0.7016415140586771,High,1.0,High,High-Touch Intervention (Sr. AM outreach + significant offer),False
+915,0.29907718383431553,0.7009228161656844,High,1.0,High,High-Touch Intervention (Sr. AM outreach + significant offer),False
+1599,0.3016870786849563,0.6983129213150436,High,1.0,High,High-Touch Intervention (Sr. AM outreach + significant offer),False
+1471,0.30528401578206127,0.6947159842179387,High,1.0,High,High-Touch Intervention (Sr. AM outreach + significant offer),False
+657,0.308550284161814,0.691449715838186,High,1.0,High,High-Touch Intervention (Sr. AM outreach + significant offer),False
+4986,0.31031130946102153,0.6896886905389785,High,1.0,High,High-Touch Intervention (Sr. AM outreach + significant offer),False
+4955,0.311769022616861,0.688230977383139,High,1.0,High,High-Touch Intervention (Sr. AM outreach + significant offer),False
+4583,0.3119523857503053,0.6880476142496947,High,1.0,High,High-Touch Intervention (Sr. AM outreach + significant offer),False
+495,0.31473251150443654,0.6852674884955634,High,1.0,High,High-Touch Intervention (Sr. AM outreach + significant offer),False
+558,0.31498892734020123,0.6850110726597988,High,1.0,High,High-Touch Intervention (Sr. AM outreach + significant offer),False
+383,0.31548435312365,0.68451564687635,High,1.0,High,High-Touch Intervention (Sr. AM outreach + significant offer),False
+5967,0.31548435312365,0.68451564687635,High,1.0,High,High-Touch Intervention (Sr. AM outreach + significant offer),False
+1847,0.31566801485536256,0.6843319851446374,High,1.0,High,High-Touch Intervention (Sr. AM outreach + significant offer),False
+1518,0.31882564493327553,0.6811743550667244,High,1.0,High,High-Touch Intervention (Sr. AM outreach + significant offer),False
+807,0.31951934673896987,0.6804806532610301,High,1.0,High,High-Touch Intervention (Sr. AM outreach + significant offer),False
+1774,0.3219874926390794,0.6780125073609207,High,1.0,High,High-Touch Intervention (Sr. AM outreach + significant offer),False
+5028,0.3229358141867994,0.6770641858132006,High,1.0,High,High-Touch Intervention (Sr. AM outreach + significant offer),False
+1710,0.32597981374019197,0.6740201862598081,High,1.0,High,High-Touch Intervention (Sr. AM outreach + significant offer),False
+1659,0.3307008114251853,0.6692991885748147,High,1.0,High,High-Touch Intervention (Sr. AM outreach + significant offer),False
+5885,0.3336134990187545,0.6663865009812455,High,1.0,High,High-Touch Intervention (Sr. AM outreach + significant offer),False
+1016,0.3344814038410038,0.6655185961589962,High,1.0,High,High-Touch Intervention (Sr. AM outreach + significant offer),False
+4823,0.3376567464180629,0.6623432535819371,High,1.0,High,High-Touch Intervention (Sr. AM outreach + significant offer),False
+3702,0.3465995680178058,0.6534004319821942,High,1.0,High,High-Touch Intervention (Sr. AM outreach + significant offer),False
+3907,0.35181060198153735,0.6481893980184626,High,1.0,High,High-Touch Intervention (Sr. AM outreach + significant offer),False
+2432,0.35249693630873746,0.6475030636912625,High,1.0,High,High-Touch Intervention (Sr. AM outreach + significant offer),False
+1325,0.35999160562716775,0.6400083943728323,High,1.0,High,High-Touch Intervention (Sr. AM outreach + significant offer),False
+1482,0.3637494767392087,0.6362505232607913,High,1.0,High,High-Touch Intervention (Sr. AM outreach + significant offer),False
+6932,0.36621566371851805,0.6337843362814819,High,1.0,High,High-Touch Intervention (Sr. AM outreach + significant offer),False
+4062,0.3662460695727519,0.6337539304272481,High,1.0,High,High-Touch Intervention (Sr. AM outreach + significant offer),False
+3021,0.37139441150609104,0.628605588493909,High,1.0,High,High-Touch Intervention (Sr. AM outreach + significant offer),False
+2612,0.37671206846784505,0.6232879315321549,High,1.0,High,High-Touch Intervention (Sr. AM outreach + significant offer),False
+6363,0.3767279384641409,0.6232720615358591,High,1.0,High,High-Touch Intervention (Sr. AM outreach + significant offer),False
+2646,0.38322396528541797,0.6167760347145821,High,1.0,High,High-Touch Intervention (Sr. AM outreach + significant offer),False
+2749,0.3839292125899463,0.6160707874100537,High,1.0,High,High-Touch Intervention (Sr. AM outreach + significant offer),False
+1946,0.3840881441940896,0.6159118558059105,High,1.0,High,High-Touch Intervention (Sr. AM outreach + significant offer),False
+3028,0.38722412161783615,0.6127758783821639,High,1.0,High,High-Touch Intervention (Sr. AM outreach + significant offer),False
+4054,0.393877071128552,0.606122928871448,High,1.0,High,High-Touch Intervention (Sr. AM outreach + significant offer),False
+238,0.3965710695056507,0.6034289304943493,High,1.0,High,High-Touch Intervention (Sr. AM outreach + significant offer),False
+3444,0.3983839864420508,0.6016160135579491,High,1.0,High,High-Touch Intervention (Sr. AM outreach + significant offer),False
+1027,0.4034075227619688,0.5965924772380312,High,1.0,High,High-Touch Intervention (Sr. AM outreach + significant offer),False
+808,0.4047633403342927,0.5952366596657073,High,1.0,High,High-Touch Intervention (Sr. AM outreach + significant offer),False
+1642,0.4091838235268771,0.5908161764731229,High,1.0,High,High-Touch Intervention (Sr. AM outreach + significant offer),False
+5105,0.4147277078423505,0.5852722921576494,High,1.0,High,High-Touch Intervention (Sr. AM outreach + significant offer),False
+162,0.43118392867845434,0.5688160713215457,High,1.0,High,High-Touch Intervention (Sr. AM outreach + significant offer),False
+3690,0.43287103176305347,0.5671289682369465,High,1.0,High,High-Touch Intervention (Sr. AM outreach + significant offer),False
+826,0.4352591165080529,0.5647408834919472,High,1.0,High,High-Touch Intervention (Sr. AM outreach + significant offer),False
+6857,0.44113146395809205,0.5588685360419079,High,1.0,High,High-Touch Intervention (Sr. AM outreach + significant offer),False
+5394,0.44127783820733435,0.5587221617926657,High,1.0,High,High-Touch Intervention (Sr. AM outreach + significant offer),False
+2471,0.4416517331155616,0.5583482668844384,High,1.0,High,High-Touch Intervention (Sr. AM outreach + significant offer),False
+370,0.44185103188422675,0.5581489681157732,High,1.0,High,High-Touch Intervention (Sr. AM outreach + significant offer),False
+906,0.451994895952842,0.5480051040471581,High,1.0,High,High-Touch Intervention (Sr. AM outreach + significant offer),False
+1053,0.45362928796916385,0.5463707120308361,High,1.0,High,High-Touch Intervention (Sr. AM outreach + significant offer),False
+2093,0.4577976832333575,0.5422023167666425,High,1.0,High,High-Touch Intervention (Sr. AM outreach + significant offer),False
+1357,0.46265926786392675,0.5373407321360733,High,1.0,High,High-Touch Intervention (Sr. AM outreach + significant offer),False
+5059,0.4646057696050033,0.5353942303949967,High,1.0,High,High-Touch Intervention (Sr. AM outreach + significant offer),False
+4641,0.47131308910635344,0.5286869108936465,High,1.0,High,High-Touch Intervention (Sr. AM outreach + significant offer),False
+693,0.47205636691064773,0.5279436330893523,High,1.0,High,High-Touch Intervention (Sr. AM outreach + significant offer),False
+1269,0.4743597432053454,0.5256402567946545,High,1.0,High,High-Touch Intervention (Sr. AM outreach + significant offer),False
+1404,0.4841708395033515,0.5158291604966485,High,1.0,High,High-Touch Intervention (Sr. AM outreach + significant offer),False
+4259,0.4844480229033354,0.5155519770966646,High,1.0,High,High-Touch Intervention (Sr. AM outreach + significant offer),False
+891,0.48820300858848853,0.5117969914115115,High,1.0,High,High-Touch Intervention (Sr. AM outreach + significant offer),False
+4845,0.4909321730073844,0.5090678269926157,High,1.0,High,High-Touch Intervention (Sr. AM outreach + significant offer),False
+3283,0.49162640123366386,0.5083735987663361,High,1.0,High,High-Touch Intervention (Sr. AM outreach + significant offer),False
+5113,0.4934242133845607,0.5065757866154392,High,1.0,High,High-Touch Intervention (Sr. AM outreach + significant offer),False
+6537,0.496702278391773,0.5032977216082271,High,1.0,High,High-Touch Intervention (Sr. AM outreach + significant offer),False
+4984,0.499076637886297,0.500923362113703,High,1.0,High,High-Touch Intervention (Sr. AM outreach + significant offer),False
+4715,0.49988129856170216,0.5001187014382978,High,1.0,High,High-Touch Intervention (Sr. AM outreach + significant offer),False
+53,0.5001379751729805,0.49986202482701947,High,1.0,High,High-Touch Intervention (Sr. AM outreach + significant offer),False
+4093,0.5139444567353599,0.48605554326464007,High,1.0,High,High-Touch Intervention (Sr. AM outreach + significant offer),False
+1915,0.5211318805574319,0.47886811944256813,High,1.0,High,High-Touch Intervention (Sr. AM outreach + significant offer),False
+5266,0.5225427861325834,0.4774572138674166,High,1.0,High,High-Touch Intervention (Sr. AM outreach + significant offer),False
+2131,0.525238241150235,0.474761758849765,High,1.0,High,High-Touch Intervention (Sr. AM outreach + significant offer),False
+3712,0.5362029607262221,0.4637970392737779,High,1.0,High,High-Touch Intervention (Sr. AM outreach + significant offer),False
+1044,0.5379982973775771,0.4620017026224229,High,1.0,High,High-Touch Intervention (Sr. AM outreach + significant offer),False
+6012,0.5382159418184456,0.46178405818155444,High,1.0,High,High-Touch Intervention (Sr. AM outreach + significant offer),False
+2772,0.544430784362957,0.455569215637043,High,1.0,High,High-Touch Intervention (Sr. AM outreach + significant offer),False
+3216,0.5484122866955748,0.45158771330442515,High,1.0,High,High-Touch Intervention (Sr. AM outreach + significant offer),False
+1636,0.5562559267152642,0.44374407328473575,High,1.0,High,High-Touch Intervention (Sr. AM outreach + significant offer),False
+803,0.5577623432243409,0.44223765677565907,High,1.0,High,High-Touch Intervention (Sr. AM outreach + significant offer),False
+4066,0.5653674126554621,0.4346325873445379,High,1.0,High,High-Touch Intervention (Sr. AM outreach + significant offer),False
+2829,0.5799627984280563,0.4200372015719437,High,1.0,High,High-Touch Intervention (Sr. AM outreach + significant offer),False
+809,0.5804919941403188,0.4195080058596812,High,1.0,High,High-Touch Intervention (Sr. AM outreach + significant offer),False
+3950,0.589803853851082,0.410196146148918,High,1.0,High,High-Touch Intervention (Sr. AM outreach + significant offer),False
+4301,0.589907585148371,0.41009241485162895,High,1.0,High,High-Touch Intervention (Sr. AM outreach + significant offer),False
+1758,0.6011762127381992,0.3988237872618008,High,1.0,High,High-Touch Intervention (Sr. AM outreach + significant offer),False
+5728,0.6035383568853367,0.39646164311466325,High,1.0,High,High-Touch Intervention (Sr. AM outreach + significant offer),False
+5297,0.6105766724235454,0.3894233275764546,High,1.0,High,High-Touch Intervention (Sr. AM outreach + significant offer),False
+2429,0.614852961845576,0.38514703815442397,High,1.0,High,High-Touch Intervention (Sr. AM outreach + significant offer),False
+3128,0.6213557182611915,0.3786442817388085,High,1.0,High,High-Touch Intervention (Sr. AM outreach + significant offer),False
+5328,0.6220291716886261,0.37797082831137385,High,1.0,High,High-Touch Intervention (Sr. AM outreach + significant offer),False
+2530,0.6271945752861557,0.37280542471384426,High,1.0,High,High-Touch Intervention (Sr. AM outreach + significant offer),False
+799,0.6280575578472984,0.37194244215270156,High,1.0,High,High-Touch Intervention (Sr. AM outreach + significant offer),False
+1086,0.6289972748647213,0.37100272513527865,High,1.0,High,High-Touch Intervention (Sr. AM outreach + significant offer),False
+4754,0.6294985001834033,0.37050149981659675,High,1.0,High,High-Touch Intervention (Sr. AM outreach + significant offer),False
+980,0.6359968600051242,0.36400313999487577,High,1.0,High,High-Touch Intervention (Sr. AM outreach + significant offer),False
+3922,0.6376327138599126,0.3623672861400874,High,1.0,High,High-Touch Intervention (Sr. AM outreach + significant offer),False
+384,0.6406158711379987,0.35938412886200133,High,1.0,High,High-Touch Intervention (Sr. AM outreach + significant offer),False
+1092,0.6542854442109388,0.3457145557890612,High,1.0,High,High-Touch Intervention (Sr. AM outreach + significant offer),False
+1139,0.6585028194391993,0.3414971805608007,High,1.0,High,High-Touch Intervention (Sr. AM outreach + significant offer),False
+4799,0.6623264425181014,0.33767355748189865,High,1.0,High,High-Touch Intervention (Sr. AM outreach + significant offer),False
+224,0.6660347905540503,0.33396520944594965,High,1.0,High,High-Touch Intervention (Sr. AM outreach + significant offer),False
+1784,0.6662442895682156,0.3337557104317844,High,1.0,High,High-Touch Intervention (Sr. AM outreach + significant offer),False
+6514,0.6680206317284462,0.33197936827155383,High,1.0,High,High-Touch Intervention (Sr. AM outreach + significant offer),False
+3559,0.6790206108543837,0.3209793891456163,High,1.0,High,High-Touch Intervention (Sr. AM outreach + significant offer),False
+3691,0.6948144300953516,0.3051855699046484,High,1.0,High,High-Touch Intervention (Sr. AM outreach + significant offer),False
+1809,0.6965362257582082,0.30346377424179183,High,1.0,High,High-Touch Intervention (Sr. AM outreach + significant offer),False
+1183,0.701158981336786,0.298841018663214,Medium,1.0,High,"Proactive Check-in (CS call, early renewal bonus)",False
+6167,0.7036135784328981,0.29638642156710193,Medium,1.0,High,"Proactive Check-in (CS call, early renewal bonus)",False
+4500,0.7080297024662854,0.2919702975337146,Medium,1.0,High,"Proactive Check-in (CS call, early renewal bonus)",False
+981,0.7086548764352881,0.29134512356471187,Medium,1.0,High,"Proactive Check-in (CS call, early renewal bonus)",False
+778,0.7092190624620764,0.29078093753792356,Medium,1.0,High,"Proactive Check-in (CS call, early renewal bonus)",False
+1580,0.7093735737534652,0.2906264262465348,Medium,1.0,High,"Proactive Check-in (CS call, early renewal bonus)",False
+6931,0.7159160125360384,0.2840839874639616,Medium,1.0,High,"Proactive Check-in (CS call, early renewal bonus)",False
+5840,0.7160330914155144,0.2839669085844856,Medium,1.0,High,"Proactive Check-in (CS call, early renewal bonus)",False
+1514,0.7184218601933657,0.28157813980663426,Medium,1.0,High,"Proactive Check-in (CS call, early renewal bonus)",False
+3547,0.7186772510370719,0.2813227489629281,Medium,1.0,High,"Proactive Check-in (CS call, early renewal bonus)",False
+6216,0.7201237995086343,0.27987620049136575,Medium,1.0,High,"Proactive Check-in (CS call, early renewal bonus)",False
+5729,0.7212812274633508,0.27871877253664923,Medium,1.0,High,"Proactive Check-in (CS call, early renewal bonus)",False
+896,0.7228173144521877,0.27718268554781234,Medium,1.0,High,"Proactive Check-in (CS call, early renewal bonus)",False
+4661,0.7235112850946184,0.2764887149053816,Medium,1.0,High,"Proactive Check-in (CS call, early renewal bonus)",False
+1116,0.7280978043890609,0.2719021956109391,Medium,1.0,High,"Proactive Check-in (CS call, early renewal bonus)",False
+1924,0.7298930532241495,0.27010694677585045,Medium,1.0,High,"Proactive Check-in (CS call, early renewal bonus)",False
+149,0.7299593474233131,0.27004065257668686,Medium,1.0,High,"Proactive Check-in (CS call, early renewal bonus)",False
+1450,0.7313664147179925,0.26863358528200754,Medium,1.0,High,"Proactive Check-in (CS call, early renewal bonus)",False
+3222,0.7444530014558167,0.2555469985441833,Medium,1.0,High,"Proactive Check-in (CS call, early renewal bonus)",False
+1336,0.7475884307191388,0.25241156928086117,Medium,1.0,High,"Proactive Check-in (CS call, early renewal bonus)",False
+1218,0.7479491161100522,0.2520508838899478,Medium,1.0,High,"Proactive Check-in (CS call, early renewal bonus)",False
+6702,0.7481992593624679,0.2518007406375321,Medium,1.0,High,"Proactive Check-in (CS call, early renewal bonus)",False
+1433,0.7483321867634013,0.2516678132365987,Medium,1.0,High,"Proactive Check-in (CS call, early renewal bonus)",False
+362,0.7494948185123507,0.25050518148764933,Medium,1.0,High,"Proactive Check-in (CS call, early renewal bonus)",False
+574,0.7529993220804662,0.24700067791953384,Medium,1.0,High,"Proactive Check-in (CS call, early renewal bonus)",False
+3150,0.7531157548770253,0.2468842451229747,Medium,1.0,High,"Proactive Check-in (CS call, early renewal bonus)",False
+5171,0.7543649686868448,0.24563503131315523,Medium,1.0,High,"Proactive Check-in (CS call, early renewal bonus)",False
+3871,0.7559452321404939,0.24405476785950608,Medium,1.0,High,"Proactive Check-in (CS call, early renewal bonus)",False
+3715,0.7564747983758184,0.24352520162418156,Medium,1.0,High,"Proactive Check-in (CS call, early renewal bonus)",False
+6222,0.7584437529098395,0.24155624709016055,Medium,1.0,High,"Proactive Check-in (CS call, early renewal bonus)",False
+1131,0.7584829022450229,0.2415170977549771,Medium,1.0,High,"Proactive Check-in (CS call, early renewal bonus)",False
+773,0.758746093926574,0.241253906073426,Medium,1.0,High,"Proactive Check-in (CS call, early renewal bonus)",False
+1766,0.759301985025437,0.240698014974563,Medium,1.0,High,"Proactive Check-in (CS call, early renewal bonus)",False
+6352,0.7600965697633711,0.23990343023662886,Medium,1.0,High,"Proactive Check-in (CS call, early renewal bonus)",False
+5118,0.7603982658251687,0.23960173417483133,Medium,1.0,High,"Proactive Check-in (CS call, early renewal bonus)",False
+4576,0.7609026963317224,0.23909730366827764,Medium,1.0,High,"Proactive Check-in (CS call, early renewal bonus)",False
+1354,0.7658407259096456,0.23415927409035442,Medium,1.0,High,"Proactive Check-in (CS call, early renewal bonus)",False
+1933,0.7663360745950547,0.2336639254049453,Medium,1.0,High,"Proactive Check-in (CS call, early renewal bonus)",False
+1795,0.7676305142967097,0.2323694857032903,Medium,1.0,High,"Proactive Check-in (CS call, early renewal bonus)",False
+6385,0.7713427705401776,0.22865722945982236,Medium,1.0,High,"Proactive Check-in (CS call, early renewal bonus)",False
+1697,0.7741118343407215,0.2258881656592785,Medium,1.0,High,"Proactive Check-in (CS call, early renewal bonus)",False
+3097,0.7751920072051457,0.2248079927948543,Medium,1.0,High,"Proactive Check-in (CS call, early renewal bonus)",False
+6374,0.7763849722497502,0.22361502775024977,Medium,1.0,High,"Proactive Check-in (CS call, early renewal bonus)",False
+1111,0.7765423373367906,0.22345766266320943,Medium,1.0,High,"Proactive Check-in (CS call, early renewal bonus)",False
+335,0.7772977317964762,0.2227022682035238,Medium,1.0,High,"Proactive Check-in (CS call, early renewal bonus)",False
+4245,0.7791401621744182,0.22085983782558183,Medium,1.0,High,"Proactive Check-in (CS call, early renewal bonus)",False
+770,0.78010883516615,0.21989116483384996,Medium,1.0,High,"Proactive Check-in (CS call, early renewal bonus)",False
+375,0.7867335641489769,0.21326643585102312,Medium,1.0,High,"Proactive Check-in (CS call, early renewal bonus)",False
+4832,0.7869826564088328,0.2130173435911672,Medium,1.0,High,"Proactive Check-in (CS call, early renewal bonus)",False
+1532,0.7880287653103645,0.21197123468963552,Medium,1.0,High,"Proactive Check-in (CS call, early renewal bonus)",False
+5621,0.7931205765483942,0.20687942345160582,Medium,1.0,High,"Proactive Check-in (CS call, early renewal bonus)",False
+1319,0.796661783552996,0.203338216447004,Medium,1.0,High,"Proactive Check-in (CS call, early renewal bonus)",False
+2289,0.7974305115949105,0.20256948840508948,Medium,1.0,High,"Proactive Check-in (CS call, early renewal bonus)",False
+164,0.7978158212874183,0.20218417871258165,Medium,1.0,High,"Proactive Check-in (CS call, early renewal bonus)",False
+3344,0.7992936113368767,0.2007063886631233,Medium,1.0,High,"Proactive Check-in (CS call, early renewal bonus)",False
+1633,0.8001307454615013,0.1998692545384987,Medium,1.0,High,"Proactive Check-in (CS call, early renewal bonus)",False
+2516,0.8008858512043963,0.19911414879560374,Medium,1.0,High,"Proactive Check-in (CS call, early renewal bonus)",False
+6311,0.8020447680077525,0.19795523199224752,Medium,1.0,High,"Proactive Check-in (CS call, early renewal bonus)",False
+4610,0.8050642766038603,0.19493572339613974,Medium,1.0,High,"Proactive Check-in (CS call, early renewal bonus)",False
+3906,0.8053683946822691,0.19463160531773094,Medium,1.0,High,"Proactive Check-in (CS call, early renewal bonus)",False
+1311,0.8080117001618433,0.19198829983815668,Medium,1.0,High,"Proactive Check-in (CS call, early renewal bonus)",False
+4592,0.8080183977386762,0.19198160226132377,Medium,1.0,High,"Proactive Check-in (CS call, early renewal bonus)",False
+2214,0.8104869906392913,0.1895130093607087,Medium,1.0,High,"Proactive Check-in (CS call, early renewal bonus)",False
+415,0.8141500344350862,0.18584996556491384,Medium,1.0,High,"Proactive Check-in (CS call, early renewal bonus)",False
+1397,0.8153761309463021,0.18462386905369788,Medium,1.0,High,"Proactive Check-in (CS call, early renewal bonus)",False
+4024,0.8180951191296916,0.18190488087030843,Medium,1.0,High,"Proactive Check-in (CS call, early renewal bonus)",False
+2487,0.818992976808122,0.181007023191878,Medium,1.0,High,"Proactive Check-in (CS call, early renewal bonus)",False
+1314,0.8193945151702646,0.18060548482973537,Medium,1.0,High,"Proactive Check-in (CS call, early renewal bonus)",False
+975,0.8215701252254876,0.17842987477451244,Medium,1.0,High,"Proactive Check-in (CS call, early renewal bonus)",False
+2415,0.8216473136413418,0.1783526863586582,Medium,1.0,High,"Proactive Check-in (CS call, early renewal bonus)",False
+6380,0.8227513775323148,0.17724862246768525,Medium,1.0,High,"Proactive Check-in (CS call, early renewal bonus)",False
+4152,0.8230059412648072,0.1769940587351928,Medium,1.0,High,"Proactive Check-in (CS call, early renewal bonus)",False
+18,0.8232914946188058,0.1767085053811942,Medium,1.0,High,"Proactive Check-in (CS call, early renewal bonus)",False
+2705,0.8234177788211213,0.17658222117887867,Medium,1.0,High,"Proactive Check-in (CS call, early renewal bonus)",False
+305,0.823491672095211,0.176508327904789,Medium,1.0,High,"Proactive Check-in (CS call, early renewal bonus)",False
+4774,0.8235710369389877,0.1764289630610123,Medium,1.0,High,"Proactive Check-in (CS call, early renewal bonus)",False
+4237,0.824688655505415,0.17531134449458496,Medium,1.0,High,"Proactive Check-in (CS call, early renewal bonus)",False
+5407,0.8263259309552589,0.17367406904474114,Medium,1.0,High,"Proactive Check-in (CS call, early renewal bonus)",False
+6404,0.827709553823595,0.172290446176405,Medium,1.0,High,"Proactive Check-in (CS call, early renewal bonus)",False
+5309,0.8302018958011199,0.16979810419888008,Medium,1.0,High,"Proactive Check-in (CS call, early renewal bonus)",False
+6119,0.8327458647288152,0.16725413527118482,Medium,1.0,High,"Proactive Check-in (CS call, early renewal bonus)",False
+4728,0.832831340098252,0.167168659901748,Medium,1.0,High,"Proactive Check-in (CS call, early renewal bonus)",False
+5668,0.8352851155078844,0.16471488449211558,Medium,1.0,High,"Proactive Check-in (CS call, early renewal bonus)",False
+1873,0.8356385126498465,0.16436148735015355,Medium,1.0,High,"Proactive Check-in (CS call, early renewal bonus)",False
+1422,0.8357713113896558,0.16422868861034423,Medium,1.0,High,"Proactive Check-in (CS call, early renewal bonus)",False
+2480,0.8370730646042989,0.16292693539570113,Medium,1.0,High,"Proactive Check-in (CS call, early renewal bonus)",False
+588,0.8379530320225917,0.16204696797740825,Medium,1.0,High,"Proactive Check-in (CS call, early renewal bonus)",False
+5078,0.8397812159294116,0.16021878407058843,Medium,1.0,High,"Proactive Check-in (CS call, early renewal bonus)",False
+917,0.8399443030285355,0.1600556969714645,Medium,1.0,High,"Proactive Check-in (CS call, early renewal bonus)",False
+5022,0.8415342996216454,0.1584657003783546,Medium,1.0,High,"Proactive Check-in (CS call, early renewal bonus)",False
+244,0.8436093304301008,0.15639066956989922,Medium,1.0,High,"Proactive Check-in (CS call, early renewal bonus)",False
+5578,0.8444108437407863,0.15558915625921366,Medium,1.0,High,"Proactive Check-in (CS call, early renewal bonus)",False
+1390,0.8446513891223766,0.15534861087762342,Medium,1.0,High,"Proactive Check-in (CS call, early renewal bonus)",False
+4366,0.8483912521576362,0.15160874784236378,Medium,1.0,High,"Proactive Check-in (CS call, early renewal bonus)",False
+3761,0.8498125382946805,0.1501874617053195,Medium,1.0,High,"Proactive Check-in (CS call, early renewal bonus)",False
+4135,0.8498454898091881,0.15015451019081194,Medium,1.0,High,"Proactive Check-in (CS call, early renewal bonus)",False
+637,0.8535667322280386,0.14643326777196142,Medium,1.0,High,"Proactive Check-in (CS call, early renewal bonus)",False
+880,0.8539345831600798,0.14606541683992025,Medium,1.0,High,"Proactive Check-in (CS call, early renewal bonus)",False
+5398,0.8548385720667016,0.14516142793329845,Medium,1.0,High,"Proactive Check-in (CS call, early renewal bonus)",False
+654,0.8557181903469264,0.14428180965307358,Medium,1.0,High,"Proactive Check-in (CS call, early renewal bonus)",False
+5549,0.8576158786483294,0.14238412135167056,Medium,1.0,High,"Proactive Check-in (CS call, early renewal bonus)",False
+4708,0.8599179062200891,0.14008209377991088,Medium,1.0,High,"Proactive Check-in (CS call, early renewal bonus)",False
+1447,0.8628116874710788,0.13718831252892116,Medium,1.0,High,"Proactive Check-in (CS call, early renewal bonus)",False
+2232,0.8636369533571023,0.13636304664289767,Medium,1.0,High,"Proactive Check-in (CS call, early renewal bonus)",False
+949,0.8652128075343166,0.13478719246568338,Medium,1.0,High,"Proactive Check-in (CS call, early renewal bonus)",False
+3912,0.8666949292512034,0.1333050707487966,Medium,1.0,High,"Proactive Check-in (CS call, early renewal bonus)",False
+5731,0.8668080779265547,0.13319192207344532,Medium,1.0,High,"Proactive Check-in (CS call, early renewal bonus)",False
+6643,0.8674039023590032,0.13259609764099678,Medium,1.0,High,"Proactive Check-in (CS call, early renewal bonus)",False
+223,0.8683083419986163,0.13169165800138372,Medium,1.0,High,"Proactive Check-in (CS call, early renewal bonus)",False
+6776,0.8687741882620463,0.13122581173795367,Medium,1.0,High,"Proactive Check-in (CS call, early renewal bonus)",False
+302,0.87073966635891,0.12926033364109002,Medium,1.0,High,"Proactive Check-in (CS call, early renewal bonus)",False
+3493,0.871178489781295,0.12882151021870503,Medium,1.0,High,"Proactive Check-in (CS call, early renewal bonus)",False
+4980,0.8715238055833805,0.1284761944166195,Medium,1.0,High,"Proactive Check-in (CS call, early renewal bonus)",False
+3068,0.8723739713344811,0.12762602866551886,Medium,1.0,High,"Proactive Check-in (CS call, early renewal bonus)",False
+662,0.8733172917409527,0.12668270825904726,Medium,1.0,High,"Proactive Check-in (CS call, early renewal bonus)",False
+4806,0.873686113738934,0.126313886261066,Medium,1.0,High,"Proactive Check-in (CS call, early renewal bonus)",False
+5236,0.8738791385891383,0.12612086141086165,Medium,1.0,High,"Proactive Check-in (CS call, early renewal bonus)",False
+3448,0.8745341974953244,0.12546580250467565,Medium,1.0,High,"Proactive Check-in (CS call, early renewal bonus)",False
+5201,0.8748639210106222,0.12513607898937784,Medium,1.0,High,"Proactive Check-in (CS call, early renewal bonus)",False
+2589,0.8754672848214295,0.12453271517857045,Medium,1.0,High,"Proactive Check-in (CS call, early renewal bonus)",False
+6964,0.8766396662917674,0.12336033370823263,Medium,1.0,High,"Proactive Check-in (CS call, early renewal bonus)",False
+3041,0.8771020827495007,0.12289791725049926,Medium,1.0,High,"Proactive Check-in (CS call, early renewal bonus)",False
+4431,0.8774160561971986,0.12258394380280135,Medium,1.0,High,"Proactive Check-in (CS call, early renewal bonus)",False
+783,0.8792295358429143,0.1207704641570857,Medium,1.0,High,"Proactive Check-in (CS call, early renewal bonus)",False
+1094,0.8817077165263751,0.11829228347362486,Medium,1.0,High,"Proactive Check-in (CS call, early renewal bonus)",False
+43,0.8820425046985869,0.11795749530141308,Medium,1.0,High,"Proactive Check-in (CS call, early renewal bonus)",False
+5244,0.8832766424424242,0.11672335755757579,Medium,1.0,High,"Proactive Check-in (CS call, early renewal bonus)",False
+5841,0.8834259146901653,0.11657408530983471,Medium,1.0,High,"Proactive Check-in (CS call, early renewal bonus)",False
+387,0.8849711038079742,0.11502889619202583,Medium,1.0,High,"Proactive Check-in (CS call, early renewal bonus)",False
+1517,0.8857293280207638,0.11427067197923624,Medium,1.0,High,"Proactive Check-in (CS call, early renewal bonus)",False
+4764,0.8861504783604656,0.11384952163953443,Medium,1.0,High,"Proactive Check-in (CS call, early renewal bonus)",False
+1462,0.8871536963558334,0.11284630364416659,Medium,1.0,High,"Proactive Check-in (CS call, early renewal bonus)",False
+605,0.887687450927161,0.11231254907283905,Medium,1.0,High,"Proactive Check-in (CS call, early renewal bonus)",False
+1808,0.8888750664087871,0.1111249335912129,Medium,1.0,High,"Proactive Check-in (CS call, early renewal bonus)",False
+354,0.8896828575330961,0.11031714246690394,Medium,1.0,High,"Proactive Check-in (CS call, early renewal bonus)",False
+1424,0.8897136998944639,0.11028630010553608,Medium,1.0,High,"Proactive Check-in (CS call, early renewal bonus)",False
+1169,0.8923200041559086,0.10767999584409138,Medium,1.0,High,"Proactive Check-in (CS call, early renewal bonus)",False
+607,0.893009750668554,0.10699024933144596,Medium,1.0,High,"Proactive Check-in (CS call, early renewal bonus)",False
+6433,0.893331294810337,0.10666870518966298,Medium,1.0,High,"Proactive Check-in (CS call, early renewal bonus)",False
+1256,0.8945725467044636,0.10542745329553638,Medium,1.0,High,"Proactive Check-in (CS call, early renewal bonus)",False
+3445,0.8950365929492184,0.10496340705078155,Medium,1.0,High,"Proactive Check-in (CS call, early renewal bonus)",False
+1489,0.8952535870020815,0.10474641299791854,Medium,1.0,High,"Proactive Check-in (CS call, early renewal bonus)",False
+5717,0.8974496764743614,0.10255032352563864,Medium,1.0,High,"Proactive Check-in (CS call, early renewal bonus)",False
+5861,0.8990073314169653,0.10099266858303468,Medium,1.0,High,"Proactive Check-in (CS call, early renewal bonus)",False
+3369,0.8993755618689134,0.10062443813108657,Medium,1.0,High,"Proactive Check-in (CS call, early renewal bonus)",False

@@ -1,0 +1,51 @@
+customer_id,duration,event,monthly_charges,total_charges,contract,internet_service,paperless_billing_flag,autopay_flag,num_services,senior_citizen_flag,partner_flag,dependents_flag,payment_method,gender,tenure_months,churn_label
+0114-IGABW,71,0,58.25,4145.9,Two year,DSL,0,1,5,0,1,0,Bank transfer (automatic),Female,71,No
+5215-LNLDJ,7,0,24.7,149.05,Month-to-month,DSL,1,0,0,0,1,1,Electronic check,Female,7,No
+1241-EZFMJ,61,0,25.45,1538.6,Two year,No,0,1,2,0,1,0,Bank transfer (automatic),Male,61,No
+4537-CIBHB,9,0,20.25,172.35,One year,No,0,0,1,0,1,1,Mailed check,Female,9,No
+1452-KIOVK,22,0,89.1,1949.4,Month-to-month,Fiber optic,1,1,4,0,0,1,Credit card (automatic),Male,22,No
+5956-VKDTT,5,1,74.35,334.8,Month-to-month,Fiber optic,1,0,2,1,1,0,Electronic check,Female,5,Yes
+6591-QGOYB,17,0,106.65,1672.1,Month-to-month,Fiber optic,1,1,7,0,0,0,Bank transfer (automatic),Male,17,No
+9453-PATOS,72,0,85.1,6155.4,Two year,DSL,0,0,7,0,1,0,Mailed check,Female,72,No
+1561-BWHIN,19,0,19.8,344.5,One year,No,0,0,1,0,1,1,Mailed check,Male,19,No
+6518-KZXCB,22,0,25.25,566.5,Two year,No,0,0,2,0,0,0,Mailed check,Male,22,No
+7779-ORAEL,45,0,75.15,3480.35,Two year,DSL,0,1,6,1,1,0,Credit card (automatic),Male,45,No
+5343-SGUBI,52,0,80.2,4297.6,One year,Fiber optic,1,0,3,0,0,0,Mailed check,Female,52,No
+8108-UXRQN,11,0,50.55,565.35,Month-to-month,DSL,0,0,3,0,1,1,Electronic check,Female,11,No
+0504-HHAPI,27,1,88.3,2467.75,Month-to-month,Fiber optic,0,1,4,1,0,0,Credit card (automatic),Female,27,Yes
+1624-WOIWJ,10,1,84.7,832.05,Month-to-month,Fiber optic,1,0,3,0,0,0,Mailed check,Female,10,Yes
+8016-ZMGMO,66,0,70.85,4738.85,One year,DSL,1,1,5,1,1,0,Bank transfer (automatic),Female,66,No
+8065-BVEPF,65,0,99.1,6496.15,Month-to-month,Fiber optic,1,1,5,1,0,0,Bank transfer (automatic),Male,65,No
+9680-NIAUV,72,0,109.7,8129.3,Two year,Fiber optic,0,1,7,0,1,0,Credit card (automatic),Female,72,No
+2454-RPBRZ,12,1,98.1,1060.2,Month-to-month,Fiber optic,1,0,5,1,1,0,Electronic check,Female,12,Yes
+4115-UMJFQ,69,0,35.75,2492.25,One year,DSL,1,1,2,0,0,0,Bank transfer (automatic),Male,69,No
+9637-EIHEQ,1,1,50.8,50.8,Month-to-month,DSL,1,0,2,0,0,0,Electronic check,Female,1,Yes
+6769-DYBQN,46,1,85.0,3969.4,Month-to-month,Fiber optic,0,0,3,1,0,0,Electronic check,Male,46,Yes
+3090-HAWSU,61,1,111.6,6876.05,Two year,Fiber optic,1,1,7,0,0,0,Credit card (automatic),Male,61,Yes
+9620-ENEJV,6,0,70.55,433.95,Month-to-month,Fiber optic,0,1,1,0,0,0,Credit card (automatic),Female,6,No
+8041-TMEID,63,0,108.5,6991.9,Two year,Fiber optic,0,1,7,1,1,0,Credit card (automatic),Male,63,No
+2114-MGINA,14,1,89.8,1129.1,Month-to-month,Fiber optic,1,0,3,0,0,0,Mailed check,Female,14,Yes
+3422-GALYP,2,0,79.45,145.15,Month-to-month,Fiber optic,1,0,3,0,0,0,Electronic check,Male,2,No
+6647-ZEDXT,30,0,110.45,3327.05,One year,Fiber optic,0,1,7,0,0,0,Credit card (automatic),Female,30,No
+2135-DQWAQ,5,0,85.3,420.45,Month-to-month,Fiber optic,1,0,3,0,0,0,Mailed check,Female,5,No
+9576-ANLXO,3,1,69.55,222.3,Month-to-month,Fiber optic,1,1,1,0,0,0,Bank transfer (automatic),Female,3,Yes
+7785-RDVIG,3,0,19.3,54.7,Month-to-month,No,0,0,1,0,1,1,Mailed check,Female,3,No
+9702-AIUJO,50,0,44.8,2230.85,One year,DSL,1,1,1,0,1,1,Bank transfer (automatic),Male,50,No
+7598-UAASY,2,1,76.4,151.8,Month-to-month,Fiber optic,0,0,2,0,1,0,Electronic check,Male,2,Yes
+2683-BPJSO,29,1,84.45,2467.1,Month-to-month,Fiber optic,1,0,4,0,1,0,Electronic check,Male,29,Yes
+4988-IQIGL,1,1,75.35,75.35,Month-to-month,Fiber optic,1,0,2,1,0,0,Electronic check,Male,1,Yes
+4316-XCSLJ,17,0,50.3,846.8,Month-to-month,DSL,1,0,2,0,0,1,Mailed check,Male,17,No
+1642-HMARX,68,0,91.7,6424.7,Two year,DSL,1,0,8,0,1,0,Electronic check,Female,68,No
+5055-BRMNE,67,0,106.7,7009.5,Two year,Fiber optic,0,1,6,0,1,1,Credit card (automatic),Female,67,No
+3011-WQKSZ,19,0,20.0,377.55,Month-to-month,No,1,0,1,0,0,1,Electronic check,Male,19,No
+6859-RKMZJ,11,0,55.05,608.15,Month-to-month,DSL,1,1,2,0,1,0,Bank transfer (automatic),Male,11,No
+5201-CBWYG,62,0,24.8,1476.25,One year,No,0,1,2,0,1,1,Bank transfer (automatic),Male,62,No
+1041-RXHRA,41,1,70.25,2868.05,Month-to-month,Fiber optic,0,1,1,0,0,0,Bank transfer (automatic),Female,41,Yes
+3717-OFRTN,1,0,19.75,19.75,Month-to-month,No,0,1,1,0,0,0,Bank transfer (automatic),Male,1,No
+2933-XEUJM,46,0,79.2,3593.8,Two year,DSL,0,0,6,0,0,0,Mailed check,Female,46,No
+6034-ZRYCV,72,1,54.2,3937.45,Two year,DSL,1,0,4,0,1,0,Electronic check,Female,72,Yes
+9067-YGSCA,70,0,26.05,1856.4,One year,No,0,1,2,0,0,0,Credit card (automatic),Female,70,No
+4283-IVYCI,9,0,64.95,547.8,Month-to-month,DSL,0,0,4,0,0,0,Mailed check,Male,9,No
+5619-PTMIK,46,0,53.1,2459.8,Month-to-month,DSL,0,0,3,0,1,0,Electronic check,Female,46,No
+5159-YFPKQ,2,1,75.8,160.75,Month-to-month,Fiber optic,1,0,2,0,0,0,Electronic check,Female,2,Yes
+9227-UAQFT,16,0,19.75,284.35,Two year,No,0,0,1,0,0,0,Mailed check,Male,16,No

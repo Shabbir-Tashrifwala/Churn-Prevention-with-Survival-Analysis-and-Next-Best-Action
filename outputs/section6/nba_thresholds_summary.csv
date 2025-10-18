@@ -1,0 +1,2 @@
+horizon_months,risk_bands,value_col,value_q33,value_q66
+6,"{'high': (None, 0.7), 'medium': (0.7, 0.9), 'low': (0.9, None)}",ValueProxy,1.0,1.0

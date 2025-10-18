@@ -1,0 +1,4 @@
+contract,n,events,event_rate,median_survival_months,top_drops
+Month-to-month,3875,1655,0.4270967741935484,35.0,1m:9.81%; 69m:3.55%
+One year,1472,166,0.11277173913043478,,72m:7.58%; 70m:4.81%
+Two year,1685,48,0.028486646884272996,,72m:1.10%; 71m:1.00%

@@ -1,0 +1,10 @@
+{
+  "customerID": "SYN-0000",
+  "tenure": 61,
+  "MonthlyCharges": 76.91,
+  "TotalCharges": 1651.24,
+  "Contract": "Two year",
+  "InternetService": "No",
+  "PaymentMethod": "Bank transfer (automatic)",
+  "PaperlessBilling": "Yes"
+}

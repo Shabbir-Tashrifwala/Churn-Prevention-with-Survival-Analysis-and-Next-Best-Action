@@ -1,0 +1,4 @@
+internet_service,n,events,event_rate,median_survival_months,top_drops
+Fiber optic,3096,1297,0.4189276485788114,65.0,1m:6.56%; 2m:2.42%
+DSL,2416,459,0.18998344370860928,,1m:4.93%; 2m:1.85%
+No,1520,113,0.07434210526315789,,1m:3.82%; 56m:0.53%

@@ -1,0 +1,2 @@
+n_customers,events,censored,event_rate,median_survival_months,top_drops
+7032,1869,5163,0.26578498293515357,,1m:5.40%; 2m:1.81%; 3m:1.41%

@@ -1,0 +1,32 @@
+[
+  {
+    "customerID": "SYN-0000",
+    "tenure": 61,
+    "MonthlyCharges": 76.91,
+    "TotalCharges": 1651.24,
+    "Contract": "Two year",
+    "InternetService": "No",
+    "PaymentMethod": "Bank transfer (automatic)",
+    "PaperlessBilling": "Yes"
+  },
+  {
+    "customerID": "SYN-0001",
+    "tenure": 46,
+    "MonthlyCharges": 86.43,
+    "TotalCharges": 1081.8,
+    "Contract": "Month-to-month",
+    "InternetService": "No",
+    "PaymentMethod": "Credit card (automatic)",
+    "PaperlessBilling": "No"
+  },
+  {
+    "customerID": "SYN-0002",
+    "tenure": 37,
+    "MonthlyCharges": 76.61,
+    "TotalCharges": 1169.55,
+    "Contract": "Month-to-month",
+    "InternetService": "No",
+    "PaymentMethod": "Electronic check",
+    "PaperlessBilling": "No"
+  }
+]

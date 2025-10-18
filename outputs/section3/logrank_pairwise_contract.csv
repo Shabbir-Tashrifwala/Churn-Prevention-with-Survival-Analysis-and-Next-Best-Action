@@ -1,0 +1,4 @@
+group_a,group_b,test_statistic,p_value_holm,-log2(p)
+Month-to-month,One year,926.0645586243695,2.1173266936021792e-203,673.2691593745195
+Month-to-month,Two year,1550.5103068768399,0.0,inf
+One year,Two year,256.21776680560686,1.1454483319857905e-57,189.15398902446262
