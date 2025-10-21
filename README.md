@@ -5,7 +5,7 @@ End-to-end project that:
 - translates predictions into prescriptions via a pragmatic Next-Best-Action (NBA) matrix (Risk × Value),
 - and operationalizes the solution for both batch campaigns and a real-time FastAPI API.
 
-Full report: [`docs/Project Report.pdf`](docs/Project%20Report.pdf)  
+Please visit the project page: https://www.tashrifwala.com/projects/churn-prevention.html
 Notebook: `churn_survival_nba.ipynb` 
 
 ---
