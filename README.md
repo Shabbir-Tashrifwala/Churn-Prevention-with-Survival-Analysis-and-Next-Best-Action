@@ -6,6 +6,7 @@ End-to-end project that:
 - and operationalizes the solution for both batch campaigns and a real-time FastAPI API.
 
 Please visit the project page: https://www.tashrifwala.com/projects/churn-prevention.html
+
 Notebook: `churn_survival_nba.ipynb` 
 
 ---
